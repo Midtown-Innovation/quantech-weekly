@@ -5,8 +5,17 @@ Sources
 
 - [yahoo finance](https://finance.yahoo.com/)
 - [CNBC](https://www.cnbc.com/)
+- [investpedio](https://www.investopedia.com/)
 
 ## 量化动态
+
+### academic
+
+- [hbs](www.hbs.edu/research/research.html)
+- [ssrn](www.ssrn.com)
+- [nber](www.nber.org)
+- [ieor](www.ieor.columbia.edu/seminars/financialengineering)
+- [quantpedia](https://quantpedia.com/)
 
 ### blogs
 - [godotfinance](http://godotfinance.com/workingpapers.xhtml)
@@ -23,7 +32,14 @@ Sources
 - [Flirting with Models](https://www.thinknewfound.com/)
 - [mutinyfund](https://mutinyfund.com/)
 - [Chat with Traders](https://chatwithtraders.com/)
-- 
+
+### trader forums
+- [Elite Trader](www.Elitetrader.com)
+- [Wealth-Lab](www.wealth-lab.com)
+
+### newspaper and magazines
+
+- [Stocks, Futures and Options Magazine](www.sfomag.com)
 
 ## 科技动态
 
