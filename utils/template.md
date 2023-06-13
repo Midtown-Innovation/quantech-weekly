@@ -2,13 +2,13 @@
 
 这里记录每周值得分享的科技内容，周六发布。
 
-本杂志[开源](https://github.com/Midtown-Innovation/quantech-weekly.git)，欢迎[投稿](https://github.com/Midtown-Innovation/quantech-weekly/issues)。
+本杂志[开源](https://github.com/Midtown-Innovation/quantech-weekly.git "开源链接")，欢迎[投稿](https://github.com/Midtown-Innovation/quantech-weekly/issues "投稿")。
 
 ## 封面图
 
 ![](https://cdn.beekka.com/blogimg/asset/202306/bg2023060502.webp)
 
-世界首架载人飞碟，6月3日在深圳正式起飞。这架飞碟是电动的，最大飞行高度200米，续航时间15分钟。（[via](https://www.sohu.com/a/681963859_121384220)）
+世界首架载人飞碟，6月3日在深圳正式起飞。这架飞碟是电动的，最大飞行高度200米，续航时间15分钟。（[via](https://www.sohu.com/a/681963859_121384220 "载人飞碟")）
 
 ## <期刊标题>
 
