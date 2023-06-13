@@ -3,7 +3,7 @@
 
 记录每周值得分享的科技内容，周六发布。
 
-欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/Midtown-Innovation/quantech-weekly/issues) 。
+欢迎投稿，推荐或自荐文章/工具/资源，请[提交 issue](https://github.com/Midtown-Innovation/quantech-weekly/issues)。
 
 ## 2023
 
