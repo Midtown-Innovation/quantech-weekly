@@ -5,7 +5,3 @@
 欢迎投稿，推荐或自荐文章/工具/资源，请[提交 issue](https://github.com/Midtown-Innovation/quantech-weekly/issues)。
 
 开源内容也可以通过 [量化科技周刊](https://midtown.gitbook.io/quantech-weekly "量化科技周刊") 网页访问。
-
-## 2023
-
-**六月**
