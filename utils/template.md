@@ -26,4 +26,6 @@
 
 （完）
 
+![](https://raw.githubusercontent.com/Midtown-Innovation/quantech-weekly/main/resource/wechat.png)
+
 
