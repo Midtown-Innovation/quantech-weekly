@@ -4,7 +4,7 @@
 
 本杂志[开源](https://github.com/Midtown-Innovation/quantech-weekly.git "开源链接")，欢迎[投稿](https://github.com/Midtown-Innovation/quantech-weekly/issues "投稿")。 
 
-开源内容也可以通过 [量化科技周刊](https://midtown.gitbook.io/quantech-weekly "量化科技周刊") 网页访问。
+开源内容也可以通过 [量化科技周刊](https://midtown.gitbook.io/quantech "量化科技周刊") 网页访问。
 
 230617 第 1 期。
 
